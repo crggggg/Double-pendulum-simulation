@@ -1,0 +1,5 @@
+{
+  "name": "Double Pendulum Trace",
+  "description": "A minimalist, high-performance physics simulation of a double pendulum demonstrating chaotic motion and tracing its trajectory.",
+  "requestFramePermissions": []
+}
